@@ -23,3 +23,8 @@ Each issue is written like a support ticket:
 - What I checked
 - What caused it
 - How it was fixed
+
+
+## Project Goal
+
+The purpose of this lab was to practice troubleshooting common networking problems while documenting findings in a structured IT support style.
